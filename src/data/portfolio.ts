@@ -29,7 +29,7 @@ export const portfolioData = {
     {
       title: 'Stage d\'initiation',
       company: 'Groupe Marjane Holding',
-      period: '2024',
+      period: '2025',
       location: 'Maroc',
       description: [
         'Développement d\'une plateforme web de gestion des stocks et des ventes en React.js et Next.js',
@@ -40,7 +40,7 @@ export const portfolioData = {
     {
       title: 'Stage d\'observation',
       company: 'Trésorerie générale du Royaume, Perception d\'Oujda',
-      period: '2023',
+      period: '2024',
       location: 'Oujda, Maroc',
       description: [
         'Utilisation des outils informatiques pour suivre les encaissements et les dépenses',
